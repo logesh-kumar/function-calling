@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^5.18.0",
     "dotenv": "^16.4.5",
-    "openai": "^4.55.5"
+    "express": "^4.19.2",
+    "openai": "^4.55.5",
+    "prisma": "^5.18.0"
   }
 }
